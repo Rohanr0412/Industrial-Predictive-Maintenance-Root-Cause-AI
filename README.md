@@ -35,6 +35,7 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost · TensorFlow/Keras · SHAP
 - `failure_xgboost.json` — XGBoost failure prediction model
 - `lstm_scaler.pkl` — LSTM input scaler
 - `requirements.txt` — Python dependency list
+🖥️ Dashboard Preview
 
 ## 📊 Model Evaluation
 
